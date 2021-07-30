@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alawode Emmanuel</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Alawode</h1>
 <h3 align="center">A passionate frontend developer from Nigeria. Based in Abuja, Lagos and Osun states.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oddfeeling&label=Profile%20views&color=0e75b6&style=flat" alt="oddfeeling" /> </p>
