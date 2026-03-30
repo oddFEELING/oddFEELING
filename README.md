@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Emmanuel Alawode</h1>
+<h1 align="left">Emmanuel Alawode</h1>
 <p align="left">I build apps that work... Most of the time... Sometimes... Kinda Depends on how patient you are.</p>
 
 
