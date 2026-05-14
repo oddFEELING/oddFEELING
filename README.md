@@ -1,5 +1,5 @@
 <h1 align="left">Emmanuel Alawode</h1>
-<h3 align="left">I build apps that work... Most of the time... Sometimes...</h3>
+<h3 align="left">Full Stack Software Engineeer.</h3>
 <p>Kinda Depends on how patient you are.</p>
 
 
